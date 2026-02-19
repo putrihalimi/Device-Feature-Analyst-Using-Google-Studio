@@ -1,10 +1,6 @@
 # Device-Feature-Analyst-Using-Google-Studio
 
-Wah ini levelnya sudah lebih advance 👏🔥
-Ini cocok banget masuk portofolio Data Analyst / Business Intelligence.
-
-Berikut contoh **tulisan portofolio profesional** untuk dashboard kedua kamu:
-
+Berikut portofolio dashboard profesional saya: ([https://lookerstudio.google.com/reporting/32b3075b-eec5-450d-8bbb-aba76c930ee9])
 ---
 
 # 📱 Mobile Device Analytics Dashboard
